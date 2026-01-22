@@ -4,7 +4,7 @@
 A Streamlit-based chatbot that provides travel package details and booking guidance.
 
 ## Live Demo
-https://bayard-travel-chatbot.streamlit.app
+https://bayard-travel-chatbot-gquj4529qdqm6dpkop8ci5.streamlit.app/
 
 ## Tech Stack
 - Python
