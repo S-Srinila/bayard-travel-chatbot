@@ -1,0 +1,5 @@
+streamlit
+scikit-learn
+pandas
+nltk
+streamlit>=1.31
